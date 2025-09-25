@@ -119,6 +119,16 @@ streamlit run UI_v3.py
 * 🌐 Web deployment (Streamlit Community Cloud or AWS)
 
 ---
+## 🧑‍💻 Author
+**Siddharth Kumar**
+📧 \(siddharth27april2000@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/siddharth-kumar2002/) | [GitHub](https://github.com/siddharth2704)
+
+**Aman Rajput**
+📧 \(ar1632002@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/aman-rajput-7a3a262a7/) | [GitHub](https://github.com/Aman-Rajput-dev)
+
+---
 
 ## 📝 License
 
