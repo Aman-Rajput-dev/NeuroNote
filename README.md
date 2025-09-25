@@ -120,14 +120,6 @@ streamlit run UI_v3.py
 
 ---
 
-## 🧑‍💻 Author
-
-**Aman Rajput**
-📧 \(ar1632002@gmail.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/aman-rajput-7a3a262a7/) | [GitHub](https://github.com/Aman-Rajput-dev)
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License.
