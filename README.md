@@ -120,17 +120,18 @@ streamlit run UI_v3.py
 
 ---
 ## 🧑‍💻 Author
-**Siddharth Kumar**
-📧 \(siddharth27april2000@gmail.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/siddharth-kumar2002/) | [GitHub](https://github.com/siddharth2704)
+- **Siddharth Kumar**  
+  📧 (siddharth27april2000@gmail.com)  
+  🌐 [LinkedIn](https://www.linkedin.com/in/siddharth-kumar2002/) | [GitHub](https://github.com/siddharth2704)
 
-**Aman Rajput**
-📧 \(ar1632002@gmail.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/aman-rajput-7a3a262a7/) | [GitHub](https://github.com/Aman-Rajput-dev)
+- **Aman Rajput**  
+  📧 (ar1632002@gmail.com)  
+  🌐 [LinkedIn](https://www.linkedin.com/in/aman-rajput-7a3a262a7/) | [GitHub](https://github.com/Aman-Rajput-dev)
 
-**Adarsh Ambastha**
-📧 \(adarshambastha18@gmail.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/adarsh-dau/) | [GitHub](https://github.com/Adarsh-Ambastha)
+- **Adarsh Ambastha**  
+  📧 (adarshambastha18@gmail.com)  
+  🌐 [LinkedIn](https://www.linkedin.com/in/adarsh-dau/) | [GitHub](https://github.com/Adarsh-Ambastha)
+
 ---
 
 ## 📝 License
