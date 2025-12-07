@@ -128,6 +128,9 @@ streamlit run UI_v3.py
 📧 \(ar1632002@gmail.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/aman-rajput-7a3a262a7/) | [GitHub](https://github.com/Aman-Rajput-dev)
 
+**Adarsh Ambastha**
+📧 \(adarshambastha18@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/adarsh-dau/) | [GitHub](https://github.com/Adarsh-Ambastha)
 ---
 
 ## 📝 License
