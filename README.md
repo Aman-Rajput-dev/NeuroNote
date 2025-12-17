@@ -95,8 +95,11 @@ streamlit run UI_v3.py
 ---
 
 ## 🔹 Demo Video
-
+This is for Text to Image 
 [Click here to watch the demo](video/demo_video1.mp4)
+
+This is for Image to Text
+[Click here to watch the demo](video/Image to Text Demo.mp4)
 
 
 
