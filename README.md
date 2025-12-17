@@ -4,6 +4,11 @@
 
 ---
 
+Aman Rajput 202418003
+Adarsh Ambastha 202418004
+Kaustubh Wade 202418024
+Siddharth Kumar 202418054
+
 ## Project Overview
 
 NeuroNote is a **multimodal educational AI system** designed to help students understand biology concepts through both **textual and visual intelligence**.
