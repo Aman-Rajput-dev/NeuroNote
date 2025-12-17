@@ -99,7 +99,7 @@ This is for Text to Image
 [Click here to watch the demo](video/demo_video1.mp4)
 
 This is for Image to Text
-[Click here to watch the demo](video/Image to Text Demo.mp4)
+[Click here to watch the demo](video/ImagetoTextDemo.mp4)
 
 
 
